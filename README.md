@@ -37,7 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
-![Ex5 1_page-0001](https://github.com/laakshit-D/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119559976/d3144e7a-880b-4200-b442-5a741f767c95)
+![Ex5 1_page-0001](https://github.com/laakshit-D/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119559976/133befa2-35b6-4300-8f0c-3bddc314f58f)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
