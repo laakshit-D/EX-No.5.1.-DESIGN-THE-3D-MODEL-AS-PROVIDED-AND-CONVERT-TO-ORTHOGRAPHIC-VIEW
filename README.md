@@ -1,6 +1,5 @@
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
 ## DATE:
-
 ## AIM: 
 To create orthographic view of given 3D model
 
@@ -11,33 +10,28 @@ To create orthographic view of given 3D model
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-
-### STEP-1:
+#### STEP-1:
 Open Fusion 360 and select file and click new file
-
-### STEP-2:
+#### STEP-2:
 Select sketch option and choose create sketch
-
-### STEP-3: 
+#### STEP-3: 
 1. Create the sketch using circle, line, trim operations as shown in figure
 2. Apply finish sketch 
-
-### STEP-4:
+#### STEP-4:
  Use the extrude option to convert the 2D to 3D.
-
-### STEP-5:
+#### STEP-5:
 Switch to drawing mode from design mode 
-          
-### STEP-6:
+#### STEP-6:
 1. Select the base view and position the model to project from base view 
 2. Select the projected view to generate orthographic projections
 
 ## INPUT
-![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
+
+<img height=50% width=70% src="https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png">
 
 ## OUTPUT
 
-![image](https://github.com/laakshit-D/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119559976/86cdf593-7d46-4fbc-b1b2-0e7a8e1bdab3)
+<img height=80% width=90% src="https://github.com/laakshit-D/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119559976/86cdf593-7d46-4fbc-b1b2-0e7a8e1bdab3">
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
